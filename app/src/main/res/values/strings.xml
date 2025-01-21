@@ -1,0 +1,68 @@
+<resources>
+    <string name="app_name">CROWN WMS</string>
+    <string name="scan_from_fragment">Scan from fragment</string>
+    <string name="turn_on_flashlight">Turn on Flashlight</string>
+    <string name="turn_off_flashlight">Turn off Flashlight</string>
+    <string name="itemSaveLater">Save Later</string>
+    <string name="itemSavePalyList">Save Paly List</string>
+    <string name="itemSvaeOffline">Svae Off line</string>
+    <string name="itemShare">Share</string>
+    <string name="itemRemove">Remove</string>
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+</string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="add_the_user_information">add_the_user_information</string>
+    <string name="name">Name</string>
+    <string name="mobile_no">Mobile No.</string>
+    <string name="birthdata">BirthData</string>
+    <string name="more_information">More Information</string>
+    <string name="submit">Submit</string>
+    <string name="cancel">Cancel</string>
+
+    <string name="data_read">데이타 인식 방업</string>
+    <string name="work_type">작업방식</string>
+    <string name="sync">Sync</string>
+    <string name="send_comm">전송방식</string>
+    <string name="recv_comm">마스타 수신방식</string>
+    <string name="ftp">Ftp</string>
+    <string name="http">http</string>
+    <string name="email">E-Mail</string>
+    <string name="web">Web</string>
+
+    <string-array name="data_read_type">
+        <item>RFID</item>
+        <item>SCANNER</item>
+        <item>NFC</item>
+    </string-array>
+
+    <string-array name="work_entries">
+        <item>RealTime</item>
+        <item>Batch</item>
+    </string-array>
+
+    <string-array name="work_entries_value">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+
+
+    <string-array name="comm_entries">
+        <item>WEB-API</item>
+        <item>FTP</item>
+        <item>HTTP</item>
+        <item>EMAIL</item>
+    </string-array>
+
+</resources>

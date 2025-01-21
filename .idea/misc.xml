@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Custom_Project/0.SynoSys_Crown/0.src/pda/app/src/main/res/drawable/bg_text.xml" value="0.204" />
+        <entry key="..\:/Custom_Project/0.SynoSys_Crown/0.src/pda/app/src/main/res/drawable/button_circle.xml" value="0.204" />
+        <entry key="..\:/Custom_Project/0.SynoSys_Crown/0.src/pda/app/src/main/res/drawable/calendar_selector_textcolor.xml" value="0.1615" />
+        <entry key="..\:/Custom_Project/0.SynoSys_Crown/0.src/pda/app/src/main/res/drawable/caption_edit.xml" value="0.2305" />
+        <entry key="..\:/Custom_Project/0.SynoSys_Crown/0.src/pda/app/src/main/res/drawable/caption_edit_rds_bottom_left.xml" value="0.202" />
+        <entry key="..\:/Custom_Project/0.SynoSys_Crown/0.src/pda/app/src/main/res/drawable/caption_edit_rds_top_left.xml" value="0.202" />
+        <entry key="..\:/Custom_Project/0.SynoSys_Crown/0.src/pda/app/src/main/res/drawable/caption_rds_bottom_left.xml" value="0.1645" />
+        <entry key="..\:/Custom_Project/0.SynoSys_Crown/0.src/pda/app/src/main/res/drawable/caption_rds_bottom_right.xml" value="0.1645" />
+        <entry key="..\:/Custom_Project/0.SynoSys_Crown/0.src/pda/app/src/main/res/drawable/caption_rds_left.xml" value="0.1645" />
+        <entry key="..\:/Custom_Project/0.SynoSys_Crown/0.src/pda/app/src/main/res/drawable/caption_rds_right.xml" value="0.1645" />
+        <entry key="..\:/Custom_Project/0.SynoSys_Crown/0.src/pda/app/src/main/res/drawable/caption_rds_top_left.xml" value="0.1645" />
+        <entry key="..\:/Custom_Project/0.SynoSys_Crown/0.src/pda/app/src/main/res/drawable/caption_rds_top_right.xml" value="0.2315" />
+        <entry key="..\:/Custom_Project/0.SynoSys_Crown/0.src/pda/app/src/main/res/drawable/caption_view.xml" value="0.117" />
+        <entry key="..\:/Custom_Project/0.SynoSys_Crown/0.src/pda/app/src/main/res/drawable/circle_progressbar.xml" value="0.144" />
+        <entry key="..\:/Custom_Project/0.SynoSys_Crown/0.src/pda/app/src/main/res/drawable/edit_text.xml" value="0.278" />
+        <entry key="..\:/Custom_Project/0.SynoSys_Crown/0.src/pda/app/src/main/res/drawable/ic_outline_downloading_24.xml" value="0.2315" />
+        <entry key="..\:/Custom_Project/0.SynoSys_Crown/0.src/pda/app/src/main/res/drawable/login_btn.xml" value="0.204" />
+        <entry key="..\:/Custom_Project/0.SynoSys_Crown/0.src/pda/app/src/main/res/drawable/login_input.xml" value="0.18" />
+        <entry key="..\:/Custom_Project/0.SynoSys_Crown/0.src/pda/app/src/main/res/drawable/login_press.xml" value="0.204" />
+        <entry key="..\:/Custom_Project/0.SynoSys_Crown/0.src/pda/app/src/main/res/drawable/menu_press.xml" value="0.2315" />
+        <entry key="..\:/Custom_Project/0.SynoSys_Crown/0.src/pda/app/src/main/res/drawable/menu_unpress.xml" value="0.2315" />
+        <entry key="..\:/Custom_Project/0.SynoSys_Crown/0.src/pda/app/src/main/res/drawable/progress_bg.xml" value="0.1005" />
+        <entry key="..\:/Custom_Project/0.SynoSys_Crown/0.src/pda/app/src/main/res/drawable/progressbar.xml" value="0.17" />
+        <entry key="..\:/Custom_Project/0.SynoSys_Crown/0.src/pda/app/src/main/res/drawable/text_edit.xml" value="0.277" />
+        <entry key="..\:/Custom_Project/0.SynoSys_Crown/0.src/pda/app/src/main/res/drawable/text_view.xml" value="0.278" />
+        <entry key="..\:/Custom_Project/0.SynoSys_Crown/0.src/pda/app/src/main/res/drawable/transparent_calendar_element.xml" value="0.1615" />
+        <entry key="..\:/Custom_Project/0.SynoSys_Crown/0.src/pda/app/src/main/res/layout/activity_main.xml" value="0.15081521739130435" />
+        <entry key="..\:/Custom_Project/0.SynoSys_Crown/0.src/pda/app/src/main/res/layout/activity_main2.xml" value="0.15081521739130435" />
+        <entry key="..\:/Custom_Project/0.SynoSys_Crown/0.src/pda/app/src/main/res/layout/activity_main3.xml" value="0.47625" />
+        <entry key="..\:/Custom_Project/0.SynoSys_Crown/0.src/pda/app/src/main/res/layout/bottom_menu_bar.xml" value="0.26927083333333335" />
+        <entry key="..\:/Custom_Project/0.SynoSys_Crown/0.src/pda/app/src/main/res/layout/custom_toast.xml" value="0.3525" />
+        <entry key="..\:/Custom_Project/0.SynoSys_Crown/0.src/pda/app/src/main/res/layout/dialog_calendar.xml" value="0.52125" />
+        <entry key="..\:/Custom_Project/0.SynoSys_Crown/0.src/pda/app/src/main/res/layout/dialog_info.xml" value="0.42857142857142855" />
+        <entry key="..\:/Custom_Project/0.SynoSys_Crown/0.src/pda/app/src/main/res/layout/dialog_msg.xml" value="0.5" />
+        <entry key="..\:/Custom_Project/0.SynoSys_Crown/0.src/pda/app/src/main/res/layout/dialog_plt_info.xml" value="0.3525" />
+        <entry key="..\:/Custom_Project/0.SynoSys_Crown/0.src/pda/app/src/main/res/layout/dialog_progress.xml" value="0.4725" />
+        <entry key="..\:/Custom_Project/0.SynoSys_Crown/0.src/pda/app/src/main/res/layout/dialog_select.xml" value="0.67" />
+        <entry key="..\:/Custom_Project/0.SynoSys_Crown/0.src/pda/app/src/main/res/layout/dialog_update.xml" value="0.46875" />
+        <entry key="..\:/Custom_Project/0.SynoSys_Crown/0.src/pda/app/src/main/res/layout/fragment_2201_bk.xml" value="0.4675" />
+        <entry key="..\:/Custom_Project/0.SynoSys_Crown/0.src/pda/app/src/main/res/layout/fragment_home.xml" value="0.42333333333333334" />
+        <entry key="..\:/Custom_Project/0.SynoSys_Crown/0.src/pda/app/src/main/res/layout/fragment_inb1100.xml" value="0.1515625" />
+        <entry key="..\:/Custom_Project/0.SynoSys_Crown/0.src/pda/app/src/main/res/layout/fragment_io1100.xml" value="0.4827586206896552" />
+        <entry key="..\:/Custom_Project/0.SynoSys_Crown/0.src/pda/app/src/main/res/layout/fragment_io1200.xml" value="0.46875" />
+        <entry key="..\:/Custom_Project/0.SynoSys_Crown/0.src/pda/app/src/main/res/layout/fragment_io2000.xml" value="0.5128712871287129" />
+        <entry key="..\:/Custom_Project/0.SynoSys_Crown/0.src/pda/app/src/main/res/layout/fragment_io2100.xml" value="0.5" />
+        <entry key="..\:/Custom_Project/0.SynoSys_Crown/0.src/pda/app/src/main/res/layout/fragment_io2101.xml" value="0.5" />
+        <entry key="..\:/Custom_Project/0.SynoSys_Crown/0.src/pda/app/src/main/res/layout/fragment_io2102.xml" value="0.5754716981132075" />
+        <entry key="..\:/Custom_Project/0.SynoSys_Crown/0.src/pda/app/src/main/res/layout/fragment_io2200.xml" value="0.5" />
+        <entry key="..\:/Custom_Project/0.SynoSys_Crown/0.src/pda/app/src/main/res/layout/fragment_io2201.xml" value="0.5" />
+        <entry key="..\:/Custom_Project/0.SynoSys_Crown/0.src/pda/app/src/main/res/layout/fragment_io2201_bk.xml" value="0.45337301587301587" />
+        <entry key="..\:/Custom_Project/0.SynoSys_Crown/0.src/pda/app/src/main/res/layout/fragment_io2202.xml" value="0.46855345911949686" />
+        <entry key="..\:/Custom_Project/0.SynoSys_Crown/0.src/pda/app/src/main/res/layout/fragment_io3100.xml" value="0.5" />
+        <entry key="..\:/Custom_Project/0.SynoSys_Crown/0.src/pda/app/src/main/res/layout/fragment_io3200.xml" value="0.47796610169491527" />
+        <entry key="..\:/Custom_Project/0.SynoSys_Crown/0.src/pda/app/src/main/res/layout/fragment_io3300.xml" value="0.46875" />
+        <entry key="..\:/Custom_Project/0.SynoSys_Crown/0.src/pda/app/src/main/res/layout/fragment_io3400.xml" value="0.46625" />
+        <entry key="..\:/Custom_Project/0.SynoSys_Crown/0.src/pda/app/src/main/res/layout/fragment_login.xml" value="0.47125" />
+        <entry key="..\:/Custom_Project/0.SynoSys_Crown/0.src/pda/app/src/main/res/layout/fragment_login2.xml" value="0.4523809523809524" />
+        <entry key="..\:/Custom_Project/0.SynoSys_Crown/0.src/pda/app/src/main/res/layout/fragment_login_bk.xml" value="0.47625" />
+        <entry key="..\:/Custom_Project/0.SynoSys_Crown/0.src/pda/app/src/main/res/layout/fragment_pick2100.xml" value="0.25364583333333335" />
+        <entry key="..\:/Custom_Project/0.SynoSys_Crown/0.src/pda/app/src/main/res/layout/fragment_setting.xml" value="0.3825" />
+        <entry key="..\:/Custom_Project/0.SynoSys_Crown/0.src/pda/app/src/main/res/layout/grid_col.xml" value="0.5" />
+        <entry key="..\:/Custom_Project/0.SynoSys_Crown/0.src/pda/app/src/main/res/layout/grid_col1.xml" value="0.33" />
+        <entry key="..\:/Custom_Project/0.SynoSys_Crown/0.src/pda/app/src/main/res/layout/grid_col2.xml" value="0.5" />
+        <entry key="..\:/Custom_Project/0.SynoSys_Crown/0.src/pda/app/src/main/res/layout/grid_col2000.xml" value="0.7420634920634921" />
+        <entry key="..\:/Custom_Project/0.SynoSys_Crown/0.src/pda/app/src/main/res/layout/grid_col3.xml" value="0.5277777777777778" />
+        <entry key="..\:/Custom_Project/0.SynoSys_Crown/0.src/pda/app/src/main/res/layout/grid_col3200.xml" value="0.67" />
+        <entry key="..\:/Custom_Project/0.SynoSys_Crown/0.src/pda/app/src/main/res/layout/grid_col4.xml" value="0.67" />
+        <entry key="..\:/Custom_Project/0.SynoSys_Crown/0.src/pda/app/src/main/res/layout/grid_col4_1.xml" value="0.67" />
+        <entry key="..\:/Custom_Project/0.SynoSys_Crown/0.src/pda/app/src/main/res/layout/grid_col5.xml" value="0.5" />
+        <entry key="..\:/Custom_Project/0.SynoSys_Crown/0.src/pda/app/src/main/res/layout/grid_col_1.xml" value="0.46" />
+        <entry key="..\:/Custom_Project/0.SynoSys_Crown/0.src/pda/app/src/main/res/layout/grid_col_oub_plt.xml" value="0.41865079365079366" />
+        <entry key="..\:/Custom_Project/0.SynoSys_Crown/0.src/pda/app/src/main/res/layout/grid_col_sel.xml" value="0.45125" />
+        <entry key="..\:/Custom_Project/0.SynoSys_Crown/0.src/pda/app/src/main/res/layout/grid_coln4.xml" value="0.58625" />
+        <entry key="..\:/Custom_Project/0.SynoSys_Crown/0.src/pda/app/src/main/res/layout/grid_loccol.xml" value="0.44742063492063494" />
+        <entry key="..\:/Custom_Project/0.SynoSys_Crown/0.src/pda/app/src/main/res/layout/scan_edit.xml" value="0.2626953125" />
+        <entry key="..\:/Custom_Project/0.SynoSys_Crown/0.src/pda/app/src/main/res/layout/spinner_item.xml" value="0.46" />
+        <entry key="..\:/Custom_Project/0.SynoSys_Crown/0.src/pda/app/src/main/res/layout/text_msg.xml" value="0.5" />
+        <entry key="..\:/Custom_Project/0.SynoSys_Crown/0.src/pda/app/src/main/res/layout/top_bar.xml" value="0.15081521739130435" />
+        <entry key="..\:/Custom_Project/0.SynoSys_Crown/0.src/pda/app/src/main/res/layout/top_menu_bar.xml" value="0.15081521739130435" />
+        <entry key="..\:/Custom_Project/0.SynoSys_Crown/0.src/pda/app/src/main/res/layout/view_big_text.xml" value="0.31625" />
+        <entry key="..\:/Custom_Project/0.SynoSys_Crown/0.src/pda/app/src/main/res/layout/view_caption_date.xml" value="0.47" />
+        <entry key="..\:/Custom_Project/0.SynoSys_Crown/0.src/pda/app/src/main/res/layout/view_caption_edit.xml" value="0.4725" />
+        <entry key="..\:/Custom_Project/0.SynoSys_Crown/0.src/pda/app/src/main/res/layout/view_date.xml" value="0.47" />
+        <entry key="..\:/Custom_Project/0.SynoSys_Crown/0.src/pda/app/src/main/res/layout/view_edit.xml" value="0.26927083333333335" />
+        <entry key="..\:/Custom_Project/0.SynoSys_Crown/0.src/pda/app/src/main/res/layout/view_edit1.xml" value="0.26927083333333335" />
+        <entry key="..\:/Custom_Project/0.SynoSys_Crown/0.src/pda/app/src/main/res/layout/view_edit_button.xml" value="0.26927083333333335" />
+        <entry key="..\:/Custom_Project/0.SynoSys_Crown/0.src/pda/app/src/main/res/layout/view_edit_text.xml" value="0.54625" />
+        <entry key="..\:/Custom_Project/0.SynoSys_Crown/0.src/pda/app/src/main/res/layout/view_login.xml" value="0.44" />
+        <entry key="..\:/Custom_Project/0.SynoSys_Crown/0.src/pda/app/src/main/res/layout/view_main_text.xml" value="0.1" />
+        <entry key="..\:/Custom_Project/0.SynoSys_Crown/0.src/pda/app/src/main/res/layout/view_search_edit.xml" value="0.26927083333333335" />
+        <entry key="..\:/Custom_Project/0.SynoSys_Crown/0.src/pda/app/src/main/res/layout/view_select.xml" value="0.4305555555555556" />
+        <entry key="..\:/Custom_Project/0.SynoSys_Crown/0.src/pda/app/src/main/res/layout/view_spinner.xml" value="0.46875" />
+        <entry key="..\:/Custom_Project/0.SynoSys_Crown/0.src/pda/app/src/main/res/layout/view_spinner2.xml" value="0.46875" />
+        <entry key="..\:/Custom_Project/0.SynoSys_Crown/0.src/pda/app/src/main/res/layout/view_spinner3.xml" value="0.46875" />
+        <entry key="..\:/Custom_Project/0.SynoSys_Crown/0.src/pda/app/src/main/res/layout/view_text.xml" value="0.5" />
+        <entry key="..\:/Custom_Project/0.SynoSys_Crown/0.src/pda/app/src/main/res/layout/view_text1.xml" value="0.22083333333333333" />
+        <entry key="..\:/Custom_Project/0.SynoSys_Crown/0.src/pda/app/src/main/res/layout/view_text2.xml" value="0.34325396825396826" />
+        <entry key="..\:/Custom_Project/0.SynoSys_Crown/0.src/pda/app/src/main/res/layout/view_text4.xml" value="0.5" />
+        <entry key="..\:/Custom_Project/0.SynoSys_Crown/0.src/pda/app/src/main/res/layout/view_v_text.xml" value="0.22083333333333333" />
+        <entry key="..\:/Custom_Project/0.SynoSys_Crown/0.src/pda/app/src/main/res/xml/root_preferences.xml" value="0.55875" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

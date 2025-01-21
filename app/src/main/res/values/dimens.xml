@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="top_menu_bar_height">80dp</dimen>
+    <dimen name="title_font_size">20dp</dimen>
+    <dimen name="login_edit_margin">20dp</dimen>
+    <dimen name="login_edit_start_margin">20dp</dimen>
+    <dimen name="main_margin">10dp</dimen>
+    <dimen name="main_start_margin">10dp</dimen>
+    <dimen name="grid_margin">3dp</dimen>
+
+    <dimen name="view_height">60dp</dimen>
+    <dimen name="rec_height">60dp</dimen>
+    <dimen name="rec_margin">1dp</dimen>
+    <dimen name="caption_right_margin">2dp</dimen>
+    <dimen name="text_margin">2dp</dimen>
+    <dimen name="edit_margin">2dp</dimen>
+    <dimen name="title_img_size">40dp</dimen>
+    <dimen name="title_font">12dp</dimen>
+    <dimen name="table_head_font">12dp</dimen>
+    <dimen name="table_rec_font">20dp</dimen>
+    <dimen name="text_font">12dp</dimen>
+    <dimen name="edit_font">12dp</dimen>
+    <dimen name="edit_strongfont">12dp</dimen>
+    <dimen name="menu_font">12dp</dimen>
+    <dimen name="main_menu_font">12dp</dimen>
+    <dimen name="sub_menu_font">12dp</dimen>
+    <dimen name="menu_margin">12dp</dimen>
+    <dimen name="grid_height">60dp</dimen>
+
+</resources>

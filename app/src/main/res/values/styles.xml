@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AnimationPopupStyle">
+        <item name="android:windowEnterAnimation">@anim/open</item>
+        <item name="android:windowExitAnimation">@anim/close</item>
+    </style>    <!-- Menu -->
+    <style name="styMenu" parent="CardView">
+        <item name="android:layout_gravity">center</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:layout_marginLeft">5sp</item>
+        <item name="android:layout_marginRight">5sp</item>
+        <item name="android:layout_marginTop">5sp</item>
+        <item name="android:layout_marginBottom">5sp</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:stateListAnimator">@anim/animation</item>
+        <item name="android:background">@drawable/button_menu</item>
+        <item name="android:foreground">?attr/selectableItemBackground</item>
+        <item name="android:clickable">true</item>
+        <item name="android:autoSizeTextType">uniform</item>
+        <item name="android:autoSizePresetSizes">@array/autosize_btntext_sizes</item>
+    </style>
+
+    <style name="styMenuButton" parent="TextAppearance.MaterialComponents.Button">
+        <item name="android:gravity">center</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:layout_margin">3dp</item>
+        <item name="android:background">@drawable/button_dlg_menu</item>
+        <item name="android:textColor">@color/colorWhite</item>
+        <item name="android:autoSizeTextType">uniform</item>
+        <item name="android:autoSizePresetSizes">@array/autosize_btntext_sizes</item>
+    </style>
+
+    <style name="styColumnView" parent="TextAppearance.AppCompat">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:background">@color/grid_rec_back</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:autoSizeTextType">uniform</item>
+        <item name="android:autoSizePresetSizes">@array/autosize_text_sizes</item>
+    </style>
+    <style name="styColumnVView" parent="TextAppearance.AppCompat">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">0dp</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:autoSizeTextType">uniform</item>
+        <item name="android:autoSizePresetSizes">@array/autosize_text_sizes</item>
+    </style>
+
+
+    <style name="styMenuText" parent="TextAppearance.AppCompat">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:layout_weight">3</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:textAlignment">center</item>
+        <item name="android:autoSizeTextType">uniform</item>
+        <item name="android:autoSizePresetSizes">@array/autosize_text_menusizes</item>
+        <item name="android:textColor">@color/darkprimary</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="styTitleView" parent="TextAppearance.AppCompat">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:autoSizeTextType">uniform</item>
+        <item name="android:autoSizePresetSizes">@array/autosize_text_sizes</item>
+        <item name="android:textColor">@color/darkprimary</item>
+    </style>
+    <style name="styContentView" parent="TextAppearance.AppCompat">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:textColor">@color/kaigray</item>
+        <item name="android:autoSizeTextType">uniform</item>
+        <item name="android:autoSizePresetSizes">@array/autosize_text_sizes</item>
+    </style>
+    <style name="styCaptionView" parent="TextAppearance.AppCompat">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:textSize">15dp</item>
+        <item name="android:textAlignment">center</item>
+        <item name="android:background">@drawable/caption_view</item>
+        <item name="android:textColor">@color/caption_text</item>
+        <item name="android:autoSizeTextType">uniform</item>
+        <item name="android:autoSizePresetSizes">@array/autosize_text_sizes</item>
+    </style>
+    <style name="styCaptionEdit" parent="TextAppearance.AppCompat">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:textSize">15dp</item>
+        <item name="android:textAlignment">center</item>
+        <item name="android:background">@drawable/caption_view</item>
+        <item name="android:textColor">@color/caption_text</item>
+        <item name="android:autoSizeTextType">uniform</item>
+        <item name="android:autoSizePresetSizes">@array/autosize_text_sizes</item>
+    </style>
+
+
+    <style name="styDateView" parent="TextAppearance.AppCompat.Button">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:layout_marginLeft">5dp</item>
+        <item name="android:layout_marginRight">5dp</item>
+        <item name="android:autoSizeTextType">uniform</item>
+        <item name="android:autoSizePresetSizes">@array/autosize_text_sizes</item>
+        <item name="android:background">@drawable/bg_date</item>
+        <item name="android:textColor">@color/date_text</item>
+    </style>
+
+    <style name="styTextView" parent="TextAppearance.AppCompat">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:autoSizeTextType">uniform</item>
+        <item name="android:autoSizePresetSizes">@array/autosize_text_sizes</item>
+        <item name="android:textColor">@color/view_text</item>
+    </style>
+    <style name="styTextViewBig" parent="TextAppearance.AppCompat">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:autoSizeTextType">uniform</item>
+        <item name="android:autoSizePresetSizes">@array/autosize_text_bigsizes</item>
+        <item name="android:textColor">@color/view_text</item>
+    </style>
+    <style name="styTextView2" parent="TextAppearance.AppCompat">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:layout_marginRight">3dp</item>
+        <item name="android:autoSizeTextType">uniform</item>
+        <item name="android:autoSizePresetSizes">@array/autosize_text_sizes</item>
+        <item name="android:textColor">@color/colorBlack</item>
+    </style>
+    <style name="styEditText" parent="Widget.AppCompat.EditText">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:layout_marginLeft">5dp</item>
+        <item name="android:layout_marginRight">5dp</item>
+        <item name="android:background">@color/edit</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:autoSizeTextType">uniform</item>
+        <item name="android:autoSizePresetSizes">@array/autosize_edittext_sizes</item>
+        <item name="android:textColor">@color/edit_text</item>
+        <item name="android:selectAllOnFocus">true</item>
+    </style>
+    <style name="stySearchEditText" parent="Widget.AppCompat.EditText">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:layout_marginLeft">5dp</item>
+        <item name="android:layout_marginRight">5dp</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:autoSizeTextType">uniform</item>
+        <item name="android:autoSizePresetSizes">@array/autosize_edittext_sizes</item>
+        <item name="android:textColor">@color/edit_text</item>
+        <item name="android:selectAllOnFocus">true</item>
+    </style>
+    <style name="styListTitleView" parent="TextAppearance.AppCompat">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:autoSizeTextType">uniform</item>
+        <item name="android:autoSizePresetSizes">@array/autosize_text_sizes</item>
+        <item name="android:textAlignment">center</item>
+        <item name="android:background">@color/grid_title_back</item>
+        <item name="android:textColor">@color/grid_title_text</item>
+    </style>
+
+    <style name="styListRecView" parent="TextAppearance.AppCompat">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:autoSizeTextType">uniform</item>
+        <item name="android:autoSizePresetSizes">@array/autosize_text_sizes</item>
+        <item name="android:textAlignment">center</item>
+        <item name="android:background">@color/grid_rec_back</item>
+        <item name="android:textColor">@color/grid_rec_text</item>
+    </style>
+    <style name="styListRecWid0" parent="TextAppearance.AppCompat">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:autoSizeTextType">uniform</item>
+        <item name="android:autoSizePresetSizes">@array/autosize_text_sizes</item>
+        <item name="android:textAlignment">center</item>
+        <item name="android:textColor">@color/grid_rec_text</item>
+        <item name="android:background">@color/grid_rec_back</item>
+        <item name="android:layout_marginRight">2dp</item>
+    </style>
+    <style name="styListRecHigh0" parent="TextAppearance.AppCompat">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">0dp</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:autoSizeTextType">uniform</item>
+        <item name="android:autoSizePresetSizes">@array/autosize_text_sizes</item>
+        <item name="android:textAlignment">center</item>
+        <item name="android:textColor">@color/grid_rec_text</item>
+        <item name="android:background">@color/grid_rec_back</item>
+        <item name="android:layout_marginRight">2dp</item>
+    </style>
+
+
+    <style name="stySpinnerItem" parent="@android:style/Widget.Holo.DropDownItem.Spinner">
+        <item name="android:textColor">@color/spinner_text</item>
+    </style>
+    <style name="stySpinner" parent="@android:style/Widget.Holo.Spinner">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:layout_marginLeft">5dp</item>
+        <item name="android:layout_marginRight">5dp</item>
+        <item name="android:background">@drawable/bg_sp_top_right</item>
+        <item name="android:textAlignment">center</item>
+        <item name="android:textColor">@color/spinner_text</item>
+    </style>
+    <style name="styDetailTextView" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">16sp</item>
+        <item name="android:textStyle">bold|normal</item>
+        <item name="android:textColor">@color/view_text</item>
+        <item name="android:layout_margin">10dp</item>
+    </style>
+
+
+    <style name="CalenderViewCustom" parent="Theme.AppCompat">
+        <item name="android:textColor">@drawable/calendar_selector_textcolor</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <!-- 캘린더의 날짜(Day)의 스타일 설정 -->
+    <style name="CalenderViewDateCustomText" parent="android:TextAppearance.DeviceDefault.Small">
+        <item name="android:textColor">@drawable/calendar_selector_textcolor</item>
+    </style>
+
+    <!-- 캘린더의 요일에 적용되는 스타일 -->
+    <style name="CalenderViewWeekCustomText" parent="android:TextAppearance.DeviceDefault.Small">
+        <item name="android:textColor">@color/text100</item>
+    </style>
+
+    <!-- 연, 월을 표시하는 헤더에 적용되는 스타일 -->
+    <style name="CalendarWidgetHeader">
+        <item name="android:textSize">18sp</item>
+        <item name="android:textColor">@color/text100</item>
+    </style>
+
+</resources>

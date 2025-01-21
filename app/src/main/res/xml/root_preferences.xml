@@ -1,0 +1,109 @@
+<PreferenceScreen xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <PreferenceCategory
+        app:icon="@drawable/ic_baseline_app_registration_24"
+        app:title="@string/data_read">
+<!--
+        <EditTextPreference
+            app:key="signature"
+            app:title="@string/signature_title"
+            app:useSimpleSummaryProvider="true" />
+-->
+        <ListPreference
+            app:defaultValue="SCANNER"
+            app:entries="@array/data_read_type"
+            app:entryValues="@array/data_read_type"
+            app:key="reply"
+            app:title="@string/data_read"
+            app:useSimpleSummaryProvider="true" />
+
+        <ListPreference
+            app:defaultValue="0"
+            app:entries="@array/work_entries"
+            app:entryValues="@array/work_entries_value"
+            app:key="work_type"
+            app:title="@string/work_type"
+            app:useSimpleSummaryProvider="true" />
+
+        <SeekBarPreference
+            app:defaultValue="50"
+            app:key="rfid_range"
+            app:showSeekBarValue="true"
+            app:title="rfid range" />
+
+    </PreferenceCategory>
+    <PreferenceCategory
+        app:icon="@drawable/ic_baseline_send_24"
+        app:title="@string/sync">
+        <ListPreference
+            app:defaultValue="HTTP"
+            app:entries="@array/comm_entries"
+            app:entryValues="@array/comm_entries"
+            app:key="send_comm"
+            app:title="@string/send_comm"
+            app:useSimpleSummaryProvider="true" />
+        <ListPreference
+            app:defaultValue="HTTP"
+            app:entries="@array/comm_entries"
+            app:entryValues="@array/comm_entries"
+            app:key="recv_comm"
+            app:title="@string/recv_comm"
+            app:useSimpleSummaryProvider="true" />
+    </PreferenceCategory>
+    <PreferenceCategory
+        app:icon="@drawable/ic_baseline_send_24"
+        app:title="Address">
+
+        <EditTextPreference
+            app:key="server"
+            app:title="서버"
+            app:useSimpleSummaryProvider="true" />
+        <EditTextPreference
+            app:key="port"
+            app:title="서버 포트"
+            app:useSimpleSummaryProvider="true" />
+        <EditTextPreference
+            app:key="userid"
+            app:title="사용자 ID"
+            app:useSimpleSummaryProvider="true" />
+        <EditTextPreference
+            app:key="passwd"
+            app:title="비밀번호"
+            app:useSimpleSummaryProvider="true" />
+    </PreferenceCategory>
+
+<!--
+        <PreferenceCategory
+            app:icon="@drawable/ic_baseline_sync_24"
+            app:title="@string/work_type">
+
+            <SwitchPreferenceCompat
+                app:key="work_type"
+                app:title="@string/work_type" />
+
+            <SwitchPreferenceCompat
+                app:dependency="work_type"
+                app:key="attachment"
+                app:summaryOff="@string/attachment_summary_off"
+                app:summaryOn="@string/attachment_summary_on"
+                app:title="@string/attachment_title" />
+
+        </PreferenceCategory>
+    <PreferenceCategory
+        app:icon="@drawable/ic_baseline_volume_up_24"
+        app:title="rfid">
+        <SeekBarPreference
+            app:defaultValue="50"
+            app:key="rfid_range"
+            app:showSeekBarValue="true"
+            app:title="rfid range" />
+        <SwitchPreferenceCompat
+            app:key="rfid_range_select"
+            app:summaryOff="You will receive all notification"
+            app:summaryOn="You will no longer receive notification"
+            app:title="rfid range" />
+    </PreferenceCategory>
+
+    -->
+
+</PreferenceScreen>

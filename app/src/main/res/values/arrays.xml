@@ -1,0 +1,94 @@
+<resources>
+    <!-- Reply Preference -->
+    <string-array name="reply_entries">
+        <item>Reply</item>
+        <item>Reply to all</item>
+    </string-array>
+
+    <string-array name="reply_values">
+        <item>reply</item>
+        <item>reply_all</item>
+    </string-array>
+    <array name="autosize_text_sizes">
+        <item>10sp</item>
+        <item>11sp</item>
+        <item>12sp</item>
+        <item>13sp</item>
+        <item>14sp</item>
+        <item>15sp</item>
+        <item>16sp</item>
+    </array>
+    <array name="autosize_text_msizes">
+        <item>11sp</item>
+        <item>11sp</item>
+        <item>12sp</item>
+        <item>13sp</item>
+        <item>14sp</item>
+        <item>15sp</item>
+        <item>16sp</item>
+    </array>
+    <array name="autosize_text_msg_sizes">
+        <item>10sp</item>
+        <item>10sp</item>
+        <item>11sp</item>
+        <item>11sp</item>
+        <item>12sp</item>
+        <item>12sp</item>
+        <item>13sp</item>
+    </array>
+    <array name="autosize_text_menusizes">
+        <item>19sp</item>
+        <item>20sp</item>
+        <item>21sp</item>
+        <item>22sp</item>
+        <item>23sp</item>
+        <item>24sp</item>
+        <item>25sp</item>
+    </array>
+    <array name="autosize_text_bigsizes">
+        <item>22sp</item>
+        <item>24sp</item>
+        <item>26sp</item>
+        <item>28sp</item>
+        <item>30sp</item>
+        <item>32sp</item>
+        <item>34sp</item>
+    </array>
+    <array name="autosize_copyright_sizes">
+        <item>15sp</item>
+        <item>17sp</item>
+        <item>20sp</item>
+        <item>22sp</item>
+        <item>24sp</item>
+    </array>
+    <array name="autosize_login_sizes">
+        <item>20sp</item>
+        <item>20sp</item>
+        <item>30sp</item>
+        <item>30sp</item>
+        <item>30sp</item>
+    </array>
+    <array name="autosize_btntext_sizes">
+        <item>15sp</item>
+        <item>20sp</item>
+        <item>30sp</item>
+        <item>40sp</item>
+        <item>100sp</item>
+    </array>
+    <array name="autosize_spinner_sizes">
+        <item>15sp</item>
+        <item>20sp</item>
+        <item>25sp</item>
+        <item>30sp</item>
+        <item>35sp</item>
+    </array>
+    <array name="autosize_edittext_sizes">
+        <item>30sp</item>
+        <item>30sp</item>
+        <item>40sp</item>
+        <item>40sp</item>
+        <item>100sp</item>
+    </array>
+
+
+</resources>

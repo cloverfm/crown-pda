@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <data>
+
+    </data>
+
+    <!-- 바코드 -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:orientation="horizontal"
+        android:layout_margin="@dimen/login_edit_margin"
+        >
+        <RadioButton
+            android:id="@+id/rb_http"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:text="http"
+            android:textSize="30dp"
+            android:checked="true"
+            />
+        <RadioButton
+            android:id="@+id/rb_https"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:text="https"
+            android:textSize="30dp"
+            android:checked="false"
+            />
+    </LinearLayout>
+
+</layout>
